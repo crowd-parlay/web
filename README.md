@@ -1,3 +1,3 @@
 # Crowd Parlay
 
-SPA frontend for [Crowd Parlay API](https://github.com/crowd-parlay/core) powered by React.
+SPA frontend for [Crowd Parlay API](https://github.com/crowd-parlay/api) powered by React.
